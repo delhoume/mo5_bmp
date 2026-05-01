@@ -2,7 +2,7 @@
 # Projet Thomson MO5 - Build & SDK Management
 # ==========================================================
 
-PROGRAM      := MYAPP
+PROGRAM      := showbmp
 
 # Version du SDK compatible avec ce projet (format MAJEUR.MINEUR.x)
 SDK_COMPAT_VERSION := 1.3

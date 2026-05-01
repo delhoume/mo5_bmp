@@ -2,10 +2,10 @@
 #include <mo5_video.h>
 
 typedef unsigned char uint8_t;
-#include "assets/320x200_1.h"
-#include "assets/320x100_1.h"
-#include "assets/155x200_1.h"
-#include "assets/160x100_1.h"
+#include "320x200_1.h"
+#include "320x100_1.h"
+#include "155x200_1.h"
+#include "160x100_1.h"
 
 #define BACKGROUND_COLOR C_BLACK
 #define FOREGROUND_COLOR C_WHITE
