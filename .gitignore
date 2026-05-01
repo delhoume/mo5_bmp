@@ -1,3 +1,11 @@
 bin/
 output/
 tools/
+assets/._final_no_prescaled9_dither1bit.bmp
+assets/._final_no_prescaled9_dither1bit_155x200.bmp
+assets/._final_no_prescaled9_dither1bit_160x100.bmp
+assets/._final_no_prescaled9_dither1bit_320x100.bmp
+src/._155x200_1.h
+src/._160x100_1.h
+src/._320x200_1.h
+src/._320z200_1.h
